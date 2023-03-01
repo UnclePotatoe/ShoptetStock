@@ -3,7 +3,12 @@
   <SHOPITEM>
     <CODE>9993BL4</CODE>
     <STOCK>
-      <AMOUNT>1</AMOUNT>
+      <WAREHOUSES>
+        <WAREHOUSE>
+            <NAME>Obchod Brno</NAME>
+            <VALUE>1</VALUE>
+        </WAREHOUSE>
+      </WAREHOUSES>
     </STOCK>
   </SHOPITEM>
 </SHOP>
