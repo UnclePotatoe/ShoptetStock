@@ -1,14 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SHOP>
   <SHOPITEM>
-    <CODE>9993BL6</CODE>
-    <STOCK>
-      <WAREHOUSES>
-        <WAREHOUSE>
-            <NAME>Obchod Brno</NAME>
-            <VALUE>1</VALUE>
-        </WAREHOUSE>
-      </WAREHOUSES>
-    </STOCK>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>9993BL6</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>1</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+       </VARIANT>
+    </VARIANTS>
   </SHOPITEM>
 </SHOP>
