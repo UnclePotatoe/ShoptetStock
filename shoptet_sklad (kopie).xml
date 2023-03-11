@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SHOP>
-  <SHOPITEM id="4316">
-    <NAME>Světle modré šaty pro družičky
-    </NAME>
+  <SHOPITEM>
     <VARIANTS>
       <VARIANT>
         <CODE>9993BL8</CODE>
@@ -17,7 +15,7 @@
         <PARAMETERS>
          <PARAMETER>
            <NAME>Velikost</NAME>
-           <VALUE>40 EU</VALUE>
+           <VALUE>40 EEU</VALUE>
          </PARAMETER>
         </PARAMETERS>
       </VARIANT>
