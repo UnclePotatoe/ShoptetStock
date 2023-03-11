@@ -15,11 +15,11 @@
         <PARAMETERS>
          <PARAMETER>
            <NAME>Barva</NAME>
-           <VALUE>Červená</VALUE>
+           <VALUE>Světle modrá</VALUE>
          </PARAMETER>
          <PARAMETER>
-           <NAME>Velikost</NAME>
-           <VALUE>M</VALUE>
+           <NAME>Vzor</NAME>
+           <VALUE>jednobarevný</VALUE>
          </PARAMETER>
         </PARAMETERS>
       </VARIANT>
