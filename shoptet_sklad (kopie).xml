@@ -12,6 +12,16 @@
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+           <NAME>Barva</NAME>
+           <VALUE>Červená</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>Velikost</NAME>
+           <VALUE>M</VALUE>
+         </PARAMETER>
+        </PARAMETERS>
        </VARIANT>
     </VARIANTS>
   </SHOPITEM>
