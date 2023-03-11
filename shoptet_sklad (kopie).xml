@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SHOP>
-  <SHOPITEM>
+  <SHOPITEM id="4316">
+    <NAME>Světle modré šaty pro družičky
+    </NAME>
     <VARIANTS>
       <VARIANT>
         <CODE>9993BL8</CODE>
