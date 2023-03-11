@@ -21,6 +21,30 @@
            <NAME>Vzor</NAME>
            <VALUE>jednobarevný</VALUE>
          </PARAMETER>
+         <PARAMETER>
+           <NAME>Dámské šaty</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>Délka</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>Materiál</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>příležitost</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>střih</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
+         <PARAMETER>
+           <NAME>výrobce</NAME>
+           <VALUE>jednobarevný</VALUE>
+         </PARAMETER>
         </PARAMETERS>
       </VARIANT>
     </VARIANTS>
