@@ -13,7 +13,7 @@
           </WAREHOUSES>
         </STOCK>
         <PARAMETERS>
-          <PARAMETER>
+         <PARAMETER>
            <NAME>Barva</NAME>
            <VALUE>Červená</VALUE>
          </PARAMETER>
@@ -22,7 +22,7 @@
            <VALUE>M</VALUE>
          </PARAMETER>
         </PARAMETERS>
-       </VARIANT>
+      </VARIANT>
     </VARIANTS>
   </SHOPITEM>
 </SHOP>
