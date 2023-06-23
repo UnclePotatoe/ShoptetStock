@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP09890DG04</CODE>
+        <CODE>CH8755OLDPINK-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +28,57 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP09890LL10</CODE>
+        <CODE>EY20809CR06</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>HM2327WHITE-L</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>1</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>R1462WHITE-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -38,56 +88,6 @@
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
               <VALUE>1</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EP09890OD18</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1233BLACK-M</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
