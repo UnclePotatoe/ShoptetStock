@@ -1,28 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<SHOP>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>BD105SAGE-M</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-</SHOP>
+<SHOP>DF empty, dont continue</SHOP>
