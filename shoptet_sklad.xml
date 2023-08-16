@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>BD103FRENCHN-XS</CODE>
+        <CODE>7469ROSEG-8</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,32 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>CG40397BK06</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>1</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>CK601SILVER</CODE>
+        <CODE>EE50126PK08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -78,32 +53,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EO1746PK08</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EP00207BL04</CODE>
+        <CODE>EP00207CB06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -128,7 +78,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP00207PK10</CODE>
+        <CODE>EP00207CB08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -153,7 +103,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP03989PK04</CODE>
+        <CODE>EP0857WH04</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -178,7 +128,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP09890PK10</CODE>
+        <CODE>ES00237TE08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -187,7 +137,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -203,7 +153,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>ES01691PK10</CODE>
+        <CODE>ES03143OD06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -212,7 +162,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -228,7 +178,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>ES03143PK08</CODE>
+        <CODE>ES03143OD08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
