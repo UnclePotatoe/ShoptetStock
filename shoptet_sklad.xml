@@ -3,12 +3,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EO01769DB04</CODE>
+        <CODE>EP09890DG16</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>-1</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
@@ -28,7 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EO03124DB04</CODE>
+        <CODE>EP09890LL06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -37,7 +37,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>2</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -53,7 +53,57 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EO03124SB02</CODE>
+        <CODE>HM2331DOREE-M</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>HM2392OLDPINK-M</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>HM2394GREEN-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
