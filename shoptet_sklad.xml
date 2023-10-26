@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EH0213AWH08</CODE>
+        <CODE>7469MAUVE-6</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,16 +28,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP00461CR08</CODE>
+        <CODE>CH8902OLDPINK-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
+              <VALUE>-1</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -53,32 +53,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP00461CR10</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EY20809CR08</CODE>
+        <CODE>EE50159NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -103,7 +78,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2298BLUEROYAL-M</CODE>
+        <CODE>HM2392LAVANDE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
