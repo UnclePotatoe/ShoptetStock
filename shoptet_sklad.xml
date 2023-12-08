@@ -3,12 +3,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1269VERTE-XS</CODE>
+        <CODE>7493BURGUNDY-4</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
+              <VALUE>1</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
