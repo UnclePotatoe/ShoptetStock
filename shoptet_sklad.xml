@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>BD104ROYAL-M</CODE>
+        <CODE>C1010004GREEN</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +28,32 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>BD104ROYAL-S</CODE>
+        <CODE>DR3859-NUDE-16</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>EB01782BK0M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -53,7 +78,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EE01977BK08</CODE>
+        <CODE>EG01766DB06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -78,16 +103,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EG01756BK16</CODE>
+        <CODE>EP00739NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0</VALUE>
+              <VALUE>-1</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>0</VALUE>
+              <VALUE>1</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -103,7 +128,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2331VERTE-S</CODE>
+        <CODE>HM2303WINE-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
