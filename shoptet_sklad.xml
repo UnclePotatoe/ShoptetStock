@@ -3,7 +3,32 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EH0213AWH06</CODE>
+        <CODE>EE01977NB10</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>1</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>EE50159NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,12 +53,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP00461CR06</CODE>
+        <CODE>EG01756BD12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>-1</VALUE>
+              <VALUE>0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
@@ -53,7 +78,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2251MARINE-S</CODE>
+        <CODE>EG01926NB10</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
