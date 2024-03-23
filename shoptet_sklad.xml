@@ -3,16 +3,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EE01961DG08</CODE>
+        <CODE>EP09890BD06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -24,7 +24,7 @@
         </PARAMETERS>
       </VARIANT>
       <VARIANT>
-        <CODE>EE01961DG10</CODE>
+        <CODE>EP09890BD08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
