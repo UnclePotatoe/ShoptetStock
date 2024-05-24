@@ -3,7 +3,28 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2325GRIS-L</CODE>
+        <CODE>ES03143PK08</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>-1.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>1.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ES03143PK10</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -19,7 +40,7 @@
         <PARAMETERS>
           <PARAMETER>
             <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
+            <VALUE>31 EU</VALUE>
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
@@ -28,32 +49,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP09890BL08</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>2.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1497POMME-L</CODE>
+        <CODE>HM2304VERTE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
