@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2298VERTE-M</CODE>
+        <CODE>R1511LAVANDE-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -23,12 +23,8 @@
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
       <VARIANT>
-        <CODE>R1301BLILAC-S</CODE>
+        <CODE>R1511LAVANDE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -44,32 +40,7 @@
         <PARAMETERS>
           <PARAMETER>
             <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>DR1092A-EMER-12</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
+            <VALUE>31 EU</VALUE>
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
