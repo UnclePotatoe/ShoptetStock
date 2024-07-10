@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EP00461CR08</CODE>
+        <CODE>R1373WHITE-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -12,7 +12,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -23,8 +23,12 @@
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
       <VARIANT>
-        <CODE>EP00461CR10</CODE>
+        <CODE>EO1746PK06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -40,7 +44,32 @@
         <PARAMETERS>
           <PARAMETER>
             <NAME>Velikost</NAME>
-            <VALUE>31 EU</VALUE>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>R1459YELLOW-L</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
