@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1373WHITE-L</CODE>
+        <CODE>EP00461CR12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EO1746PK06</CODE>
+        <CODE>HM2304BLACK-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -53,7 +53,32 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1459YELLOW-L</CODE>
+        <CODE>HM2425MARINE-S</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>-1.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>HM2412OLDPINK-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
