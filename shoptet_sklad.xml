@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1301BAPPLEG-M</CODE>
+        <CODE>R1452VERTE-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EG31926NB06</CODE>
+        <CODE>EG02116BD12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -37,7 +37,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>1.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
