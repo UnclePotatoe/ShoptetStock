@@ -3,37 +3,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EH01364WH04</CODE>
+        <CODE>HM2331MARINE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
               <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>HM2371WHITE-L</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
