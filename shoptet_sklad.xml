@@ -3,166 +3,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2327FUSCHIA-S</CODE>
+        <CODE>BD104EMERALD-XS</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1301BPINK-L</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1501POMME-L</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
               <VALUE>1.0</VALUE>
             </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EG02095BD06</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
               <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>BD104MOSSG-XS</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>BD104EGGPLANT-S</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EE03890NB06</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
