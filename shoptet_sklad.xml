@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>7493BURGUNDY-4</CODE>
+        <CODE>HM2331CHERRY-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -12,7 +12,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -28,12 +28,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2330GIVRE-S</CODE>
+        <CODE>HM2459BORDEAUX-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>-1.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
