@@ -3,12 +3,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1452VERTE-L</CODE>
+        <CODE>HM2331CHERRY-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>1.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
@@ -23,87 +23,8 @@
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
       <VARIANT>
-        <CODE>EE01977NB10</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1501MARINE-S</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>EE03890NB08</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>R1452WINE-M</CODE>
+        <CODE>HM2331CHERRY-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -119,7 +40,7 @@
         <PARAMETERS>
           <PARAMETER>
             <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
+            <VALUE>31 EU</VALUE>
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
@@ -128,7 +49,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2455VERTE-L</CODE>
+        <CODE>7493NAVY-12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -137,7 +58,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
