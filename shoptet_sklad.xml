@@ -3,16 +3,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2331CHERRY-L</CODE>
+        <CODE>EP00751NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -23,8 +23,12 @@
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
       <VARIANT>
-        <CODE>HM2331CHERRY-M</CODE>
+        <CODE>7493EMERALD-8</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -40,7 +44,7 @@
         <PARAMETERS>
           <PARAMETER>
             <NAME>Velikost</NAME>
-            <VALUE>31 EU</VALUE>
+            <VALUE>30 EU</VALUE>
           </PARAMETER>
         </PARAMETERS>
       </VARIANT>
@@ -49,7 +53,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>7493NAVY-12</CODE>
+        <CODE>HM2338DOREE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
