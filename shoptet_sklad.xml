@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1386BORDEAUX-S</CODE>
+        <CODE>EP09890TE16</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -12,7 +12,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
@@ -28,16 +28,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1465ROYAL-M</CODE>
+        <CODE>EE01977NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
