@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>ES02269NB10</CODE>
+        <CODE>R1301ROYAL-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -12,7 +12,7 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
