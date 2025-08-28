@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1501ROYAL-XS</CODE>
+        <CODE>R1452PETROLE-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -12,7 +12,32 @@
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>T701PARISB-XXS</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
