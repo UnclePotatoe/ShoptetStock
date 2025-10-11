@@ -3,57 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>R1386OLDPINK-M</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>ESS0002MG06</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>7493NAVY-6</CODE>
+        <CODE>EP00751NB12</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -78,82 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>7452NAVY-6</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>SS00096MGM</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>T701PARISB-S</CODE>
-        <STOCK>
-          <WAREHOUSES>
-            <WAREHOUSE>
-              <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
-            </WAREHOUSE>
-            <WAREHOUSE>
-              <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
-            </WAREHOUSE>
-          </WAREHOUSES>
-        </STOCK>
-        <PARAMETERS>
-          <PARAMETER>
-            <NAME>Velikost</NAME>
-            <VALUE>30 EU</VALUE>
-          </PARAMETER>
-        </PARAMETERS>
-      </VARIANT>
-    </VARIANTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <VARIANTS>
-      <VARIANT>
-        <CODE>ES00237EU04</CODE>
+        <CODE>R1301BORDEAUX-XS</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -178,7 +53,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2331CHERRY-S</CODE>
+        <CODE>HM2499GIVRE-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -203,16 +78,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>T701NAVY-S</CODE>
+        <CODE>T213BLACK-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>-1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>1.0</VALUE>
+              <VALUE>0.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
