@@ -3,7 +3,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2310VERTE-M</CODE>
+        <CODE>R1301RED-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +28,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2499BLACK-M</CODE>
+        <CODE>HM2499FUCHSIA-M</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -38,6 +38,31 @@
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
               <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>HM2455BLACK-S</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>-1.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>1.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
