@@ -3,7 +3,32 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>HM2371WHITE-M</CODE>
+        <CODE>BD104NAVY-M</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>1.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>EE01999BK08</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,7 +53,7 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>EE02251BK14</CODE>
+        <CODE>T701LTPINK-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -53,7 +78,57 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>CH8998BORDEAUX-M</CODE>
+        <CODE>T213BLACK-L</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>EE02609BK08</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>B8402RED-L</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
