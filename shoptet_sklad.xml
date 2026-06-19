@@ -3,16 +3,16 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>7493EGGPLANT-10</CODE>
+        <CODE>EP09890DS06</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>-2.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>2.0</VALUE>
             </WAREHOUSE>
           </WAREHOUSES>
         </STOCK>
