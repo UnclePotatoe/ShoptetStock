@@ -3,7 +3,32 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>CH9449BLACK-M</CODE>
+        <CODE>7493BURGUNDY-2</CODE>
+        <STOCK>
+          <WAREHOUSES>
+            <WAREHOUSE>
+              <NAME>Obchod Brno</NAME>
+              <VALUE>0.0</VALUE>
+            </WAREHOUSE>
+            <WAREHOUSE>
+              <NAME>Obchod Praha</NAME>
+              <VALUE>1.0</VALUE>
+            </WAREHOUSE>
+          </WAREHOUSES>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Velikost</NAME>
+            <VALUE>30 EU</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>CH9473VERTE-S</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
@@ -28,12 +53,12 @@
   <SHOPITEM>
     <VARIANTS>
       <VARIANT>
-        <CODE>5030VERTE-XS</CODE>
+        <CODE>EG31926EU04</CODE>
         <STOCK>
           <WAREHOUSES>
             <WAREHOUSE>
               <NAME>Obchod Brno</NAME>
-              <VALUE>0.0</VALUE>
+              <VALUE>1.0</VALUE>
             </WAREHOUSE>
             <WAREHOUSE>
               <NAME>Obchod Praha</NAME>
